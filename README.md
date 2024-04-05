@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamiDab
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Computer Science
+- 👀 interested in programming
+- 🌱 currently learning Computer Science
 - 📫 E-mail: rami.dabbah@mail.huji.ac.il
 
 <!---
