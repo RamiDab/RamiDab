@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Rami Dabbah
-- 👀 interested in programming
 - 🌱 currently learning Computer Science
 - 📫 E-mail: rami.dabbah@mail.huji.ac.il
 
